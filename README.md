@@ -20,3 +20,8 @@ This query calculates the total amount spent by each user, helping identify high
 This query identifies the user with the highest total spending.
 
 ![Highest Spending User](highest_spender.png)
+
+
+## Tools Used
+- SQL (MySQL)
+- DB Fiddle (for testing)
